@@ -1,0 +1,50 @@
+
+.followerTile{
+  padding: 0.2vw;
+  width:14vw;
+  height: 4vw;
+  margin: 10px;
+  border:1px solid #cccccc;
+  align-items: flex-start;
+}
+
+.followerImg{
+  width: 4vw;
+  height: 4vw;
+  float: left;
+}
+
+.followerName{
+  padding-left: 1vw;
+  font-size: 1vw;
+}
+
+.leftContainer, .repoListContainer{
+  float: left;
+}
+
+.repoListContainer{
+  margin-left: 10vw;
+
+}
+
+.lblFollower{
+  margin-top: 0.3vw;
+}
+
+.repoList{
+  width: 50vw;
+}
+
+.repoLink{
+  border: 1px solid #cccccc;
+  width: 47vw;
+  height: auto;
+  margin: 1% 1% 1% 1%;
+  padding: 0 1% 1% 1%;
+}
+
+.repoDesc{
+  font-size: 0.9vw;
+  color: #333333;
+}

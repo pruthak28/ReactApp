@@ -1,0 +1,29 @@
+
+.searchBox{
+  margin: 1% 1% 1% 1%;
+  padding: 0.5vw;
+  width: 70vw;
+}
+
+.txtSearch{
+  width: 64vw;
+  height: 2vw;
+  margin-left: 1vw;
+  font-size: 1.1vw;
+}
+
+a{
+  text-decoration: none;
+  color: #000000;
+}
+
+.userLogin{
+  color: #888888;
+}
+
+
+
+.userAvatar {
+  width: 90%;
+  height: 68%;
+}
